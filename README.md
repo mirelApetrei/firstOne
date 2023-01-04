@@ -6,6 +6,9 @@
 - 🔭 I’m currently learning mobile app development with Syntax Institute from Berlin, Germany 
 - 🌱 I’m currently at Basics in programming with Kotlin...we are prepared for what`s next: Android development and IOS development
 - 👯 I’m looking to collaborate with companies who looks for people that are willing to learn new things and have an open mind.
+
+
+
 - 📫 How to reach me: LinkedIn profile: https://www.linkedin.com/in/apetrei-mirel-60b4ab193/
 - If you want, you can visit my web page : https://mirel-apetrei-website.netlify.app
 

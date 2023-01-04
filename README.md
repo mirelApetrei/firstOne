@@ -1,6 +1,7 @@
 # Hi there!!
 
 ## Welcome to my GitHub page
+- This is my first repo as app-developer...I`m looking forward to advance and aquire more knowdlege and experience
 
 ### About me
 - 🔭 I’m currently learning mobile app development with Syntax Institute from Berlin, Germany 
